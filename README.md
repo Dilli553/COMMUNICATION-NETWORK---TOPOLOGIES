@@ -21,9 +21,46 @@
 
 •	Hybrid Topology
 
-# 1.	Bus Topology
+# 1. Point-to-point Topologies
+A Point-to-Point topology is a network configuration in which two devices are directly connected through a dedicated communication link.
+## Real-Time Scenarios
+1. Leased Line Internet Connection
+
+A company directly connects its branch office to headquarters using a leased line.
+
+2. Bluetooth File Transfer
+
+Two mobile phones connected directly through Bluetooth.
+
+3. Satellite Communication
+
+Communication between a satellite and ground station.
+
+4. Point-to-Point Wireless Bridge
+
+Two buildings connected using wireless antennas.
+
+<img width="962" height="723" alt="image" src="https://github.com/user-attachments/assets/123b3535-0dbb-481f-8857-1b29b6972595" />
+
+## Applications
+
+Telephone communication
+
+Fiber optic leased lines
+
+Microwave links
+
+Remote office connectivity
+
+CCTV camera direct connections
+
+
+
+
+
+
+# 2.	Bus Topology
 <img width="305" height="228" alt="image" src="https://github.com/user-attachments/assets/c5a411fb-d278-4c74-ac56-7ac942a79a9b" />
-<img width="358" height="268" alt="image" src="https://github.com/user-attachments/assets/2e9e3a59-7122-456d-9dad-5724dbcdde71" />
 
   
 
