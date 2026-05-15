@@ -96,7 +96,7 @@ CCTV camera direct connections
 
 
 
-# 2. Star Topology
+# 3. Star Topology
 
 
   <img width="336" height="323" alt="image" src="https://github.com/user-attachments/assets/a41086f7-9718-48be-a3a7-09903896f489" />
@@ -129,7 +129,7 @@ CCTV camera direct connections
 •	Most Ethernet LANs using switches.
 
 
-# 3. Ring Topology
+# 4. Ring Topology
 
   <img width="390" height="408" alt="image" src="https://github.com/user-attachments/assets/148a10a7-1346-4840-9d7d-bf1bffbae597" />
 
@@ -166,7 +166,7 @@ CCTV camera direct connections
 
 
 
-# 4. Mesh Topology
+# 5. Mesh Topology
 
   <img width="445" height="376" alt="image" src="https://github.com/user-attachments/assets/ac04c66a-aa1e-40e5-a731-9f01ed7916b7" />
 
@@ -196,7 +196,7 @@ CCTV camera direct connections
 •	Wireless mesh Wi-Fi systems.
 
 
-# 5. Tree Topology
+# 6. Tree Topology
 
   <img width="399" height="399" alt="image" src="https://github.com/user-attachments/assets/7634fdcd-99e7-47b9-9d10-aa5e6f64d0f4" />
 <img width="539" height="309" alt="image" src="https://github.com/user-attachments/assets/7ec1c9d0-c663-457e-8adf-e4db778a22f9" />
@@ -229,7 +229,7 @@ CCTV camera direct connections
 •	Enterprise campus networks.
 
 
-# 6. Hybrid Topology
+# 7. Hybrid Topology
 <img width="654" height="490" alt="image" src="https://github.com/user-attachments/assets/20d52070-8bb4-4882-b5e6-060fc75c53a6" />
 
 
